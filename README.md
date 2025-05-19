@@ -1,4 +1,4 @@
-# ML_clustering_teen_Market
+# ML_clustering_teen_Market Analysis
 📊 Teen Market Clustering with Machine Learning
 Welcome to the Teen Market Clustering project! This notebook explores the application of machine learning techniques to segment teenage customers, uncovering distinct customer groups based on their purchasing behavior and preferences.
 
